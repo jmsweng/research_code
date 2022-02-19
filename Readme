@@ -1,0 +1,5 @@
+Miscelaneous code from my PhD work that may be useful in some way in the future.
+
+Notes:
+-Code that assembles reciprocal space volume from 2D x-ray images assumes instrument movement is perfect, it probably shouldn't do that.
+-Algorithm for determining crystal growth dimensionality without KJMA model is included in "Heat peak fitting stuff.ipynb"
