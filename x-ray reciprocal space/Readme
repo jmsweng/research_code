@@ -1,0 +1,3 @@
+Readme:
+Code that assembles 2D images taken on Pilatus 2M detector at 11-ID-C into a 3D volume
+Images taken every 0.1 degree over 3600 steps
