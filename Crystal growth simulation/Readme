@@ -1,0 +1,3 @@
+Simulates crystal growth by drawing circles which expand at a constant rate which appear at random (nucleation) times and random positions.
+Mostly used to generate illustrations to show the effect of changing crystal growth model parameters.
+Includes generates .csv files which represent volume crystallized as well as animations created from output images
